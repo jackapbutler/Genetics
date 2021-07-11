@@ -1,6 +1,3 @@
-# Genetics
-Exploratory repository for the UK Cancer Tech Accelerator.
-
 # Goal
 Predict disease at early screening stages using whole blood RNA data.
 
