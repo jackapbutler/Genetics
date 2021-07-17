@@ -6,7 +6,7 @@ import pandas as pd
 
 def model_algorithm(clf, X_train: DataFrame, y_train: Series, X_test: DataFrame, y_test: Series, name: str, labels: List):
     """Train a given model on the training data and show classification performance on WandB"""
-    print("Starting training model; ", clf)
+    print("\n Starting training model; ", clf)
     
     clf.fit(X_train, y_train)
     y_probas = clf.predict_proba(X_test)

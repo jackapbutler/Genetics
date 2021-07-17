@@ -36,7 +36,7 @@ log = LogisticRegression(C=0.05, solver="lbfgs", max_iter=500)
 svm = SVC(probability=True)
 knn = KNeighborsClassifier(n_neighbors=10)
 adaboost = AdaBoostClassifier(n_estimators=50, learning_rate=0.01)
-labels = [0,1]
+labels = ['High risk',' Low risk']
 
 model_algorithm(log, X_train, y_train, X_test, y_test, 'Logistic Regression', labels)
 model_algorithm(svm, X_train, y_train, X_test, y_test, 'SVM', labels)
