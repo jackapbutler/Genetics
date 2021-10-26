@@ -18,6 +18,5 @@ https://github.com/jingcheng-du/Gene2vec
 ## Kaggle
 
 https://www.kaggle.com/alexandervc/breast-cancer-omics-bulk-data <br>
-https://www.kaggle.com/alexandervc/singlecell-rnaseq-exposed-to-multiple-compounds <br>
 https://www.kaggle.com/crawford/gene-expression <br>
 https://www.kaggle.com/raghadalharbi/breast-cancer-gene-expression-profiles-metabric
