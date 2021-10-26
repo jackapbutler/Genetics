@@ -1,8 +1,11 @@
 from typing import List
+
+import pandas as pd
 from pandas.core.frame import DataFrame
 from pandas.core.series import Series
+
 import wandb
-import pandas as pd
+
 
 def model_algorithm(clf, X_train: DataFrame, y_train: Series, X_test: DataFrame, y_test: Series, name: str, labels: List):
     """Train a given model on the training data and show classification performance on WandB"""
