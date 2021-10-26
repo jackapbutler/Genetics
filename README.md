@@ -13,7 +13,8 @@ To setup the local development environment you'll need to create a Python 3.9 vi
 ## Open Source
 
 https://github.com/OpenGene <br>
-https://github.com/jingcheng-du/Gene2vec
+https://github.com/jingcheng-du/Gene2vec <br>
+https://github.com/crazyinter/Seq2Vec
 
 ## Kaggle
 
